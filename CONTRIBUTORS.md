@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Bajkowski
+- Photo: N/A
+- Location: Madison, USA
+- Bio: College student working for a BS in computerscience.
+- Github: https://github.com/Bajkowski
+***
